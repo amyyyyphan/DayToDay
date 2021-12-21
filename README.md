@@ -5,6 +5,7 @@ Team members: Justine Damolo, Western Han, Victor Martinez, Amy Phan
 
 
 **Description**
+
 DayToDay is a schedule calendar application aimed towards helping college students with their tracking of time. It’s to keep track of assignments/exams or events for college students that have a lot of work to do but haven’t thought of a way to keep track of it. It’s to help them improve their organization habits and it will give them friendly reminders of what’s going to happen on certain days. It’s going to be formatted in Calendar and within the calendar, there’s going to be reminders, events, etc.
 
 
